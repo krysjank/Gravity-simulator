@@ -1,5 +1,5 @@
 # Gravity-simulator
-Gravity simulator that defies your fantasy...
+Gravity simulator that defines your fantasy...
 Welcome to Gravity simulator!!!
 -------------------------------------------------------------------------
 You can:
