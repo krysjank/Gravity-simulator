@@ -5,11 +5,17 @@ Welcome to Gravity simulator!!!
 You can:
 --> Build your custom gravity simulations.
 --> Perform gravity assists.
---> See how bodies in space affect themselves.
+--> See how bodies in space affect each other.
 --> Place the bodies anywhere you want.
 -------------------------------------------------------------------------
-Enjoy the Gravity simulator v3.2 :)))
 
 The manual is included in the simulation.
-To look into each version, open the program in scratch, press "Load from my computer" and choose the downloaded version you want to see.
-Or just open this link for the newest version: https://scratch.mit.edu/projects/1376605963/
+
+To look into each version, begin with opening the newest version: 
+https://scratch.mit.edu/projects/1376605963/
+Then look inside the newest version of the program and press "Load from my computer". Select the downloaded version you want to see and press "Open". 
+
+Demo video:
+https://www.youtube.com/watch?v=lvVWD2lpXzQ
+
+Enjoy the Gravity simulator v3.2 :)))
