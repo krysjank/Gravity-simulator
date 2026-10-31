@@ -9,11 +9,9 @@ You can:
 --> Place the bodies anywhere you want.
 -------------------------------------------------------------------------
 
-The manual is included in the simulation.
+The manual is included in the simulation, simply follow the instructions on the screen.
 
-To look into each version, begin with opening the newest version: 
-https://scratch.mit.edu/projects/1376605963/
-Then look inside the newest version of the program and press "Load from my computer". Select the downloaded version you want to see and press "Open". 
+For demo purposes, the online version of this programm created in scratch(containing the same functionalities) can be found at this link https://scratch.mit.edu/projects/1376605963/
 
 Demo video:
 https://www.youtube.com/watch?v=lvVWD2lpXzQ
