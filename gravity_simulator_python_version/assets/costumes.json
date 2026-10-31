@@ -1,0 +1,314 @@
+{
+ "Ball1|costume1": {
+  "file": "ball1_costume1.png",
+  "cx": 12,
+  "cy": 12,
+  "res": 3
+ },
+ "Ball2|costume1": {
+  "file": "ball2_costume1.png",
+  "cx": 12,
+  "cy": 12,
+  "res": 3
+ },
+ "Ball3|costume1": {
+  "file": "ball3_costume1.png",
+  "cx": 12,
+  "cy": 12,
+  "res": 3
+ },
+ "menus/screens|start_menu": {
+  "file": "menus_screens_start_menu.png",
+  "cx": 246.25,
+  "cy": 186.0417,
+  "res": 3
+ },
+ "menus/screens|space_screen": {
+  "file": "menus_screens_space_screen.png",
+  "cx": 246.25,
+  "cy": 186.0417,
+  "res": 3
+ },
+ "menus/screens|1/5": {
+  "file": "menus_screens_1_5.png",
+  "cx": 245.6498,
+  "cy": 187.2422,
+  "res": 3
+ },
+ "menus/screens|2/5": {
+  "file": "menus_screens_2_5.png",
+  "cx": 245.6498,
+  "cy": 187.2422,
+  "res": 3
+ },
+ "menus/screens|3/5": {
+  "file": "menus_screens_3_5.png",
+  "cx": 245.6498,
+  "cy": 187.2422,
+  "res": 3
+ },
+ "menus/screens|4/5": {
+  "file": "menus_screens_4_5.png",
+  "cx": 246.25,
+  "cy": 186.0417,
+  "res": 3
+ },
+ "menus/screens|5/5": {
+  "file": "menus_screens_5_5.png",
+  "cx": 246.25,
+  "cy": 186.0417,
+  "res": 3
+ },
+ "menus/screens|tutorial": {
+  "file": "menus_screens_tutorial.png",
+  "cx": 246.25,
+  "cy": 186.0417,
+  "res": 3
+ },
+ "menus/screens|let's go": {
+  "file": "menus_screens_let_s_go.png",
+  "cx": 246.25,
+  "cy": 186.0417,
+  "res": 3
+ },
+ "menus/screens|mass": {
+  "file": "menus_screens_mass.png",
+  "cx": 245.6498,
+  "cy": 187.2422,
+  "res": 3
+ },
+ "menus/screens|settings": {
+  "file": "menus_screens_settings.png",
+  "cx": 245.6498,
+  "cy": 187.2422,
+  "res": 3
+ },
+ "Shade|costume1": {
+  "file": "shade_costume1.png",
+  "cx": 246.25,
+  "cy": 186.0417,
+  "res": 3
+ },
+ "Startbutton|not_presseed": {
+  "file": "startbutton_not_presseed.png",
+  "cx": 75.957,
+  "cy": 41.055,
+  "res": 3
+ },
+ "Startbutton|pressed": {
+  "file": "startbutton_pressed.png",
+  "cx": 75.957,
+  "cy": 41.055,
+  "res": 3
+ },
+ "Nextbutton|not_pressed": {
+  "file": "nextbutton_not_pressed.png",
+  "cx": 13.3789,
+  "cy": 26.1489,
+  "res": 3
+ },
+ "Nextbutton|pressed": {
+  "file": "nextbutton_pressed.png",
+  "cx": 13.3789,
+  "cy": 26.1489,
+  "res": 3
+ },
+ "Reset_position_button|not_pressed": {
+  "file": "reset_position_button_not_pressed.png",
+  "cx": 22.1169,
+  "cy": 22.1169,
+  "res": 3
+ },
+ "Reset_position_button|pressed": {
+  "file": "reset_position_button_pressed.png",
+  "cx": 22.1786,
+  "cy": 22.1786,
+  "res": 3
+ },
+ "Backbutton|not_pressed": {
+  "file": "backbutton_not_pressed.png",
+  "cx": 13.3746,
+  "cy": 26.1508,
+  "res": 3
+ },
+ "Backbutton|pressed": {
+  "file": "backbutton_pressed.png",
+  "cx": 13.3728,
+  "cy": 26.1511,
+  "res": 3
+ },
+ "movableBall1|don't move": {
+  "file": "movableball1_don_t_move.png",
+  "cx": 149.8182,
+  "cy": 54.48,
+  "res": 3
+ },
+ "movableBall1|move": {
+  "file": "movableball1_move.png",
+  "cx": 160.0291,
+  "cy": 54.48,
+  "res": 3
+ },
+ "movableBall2|don't move": {
+  "file": "movableball2_don_t_move.png",
+  "cx": 149.8182,
+  "cy": 54.48,
+  "res": 3
+ },
+ "movableBall2|move": {
+  "file": "movableball2_move.png",
+  "cx": 160.0291,
+  "cy": 54.48,
+  "res": 3
+ },
+ "movableBall3|don't move": {
+  "file": "movableball3_don_t_move.png",
+  "cx": 149.8182,
+  "cy": 54.48,
+  "res": 3
+ },
+ "movableBall3|move": {
+  "file": "movableball3_move.png",
+  "cx": 160.0291,
+  "cy": 54.48,
+  "res": 3
+ },
+ "additional_texts|nothing is moving": {
+  "file": "additional_texts_nothing_is_moving.png",
+  "cx": 135.7659,
+  "cy": 20.7812,
+  "res": 3
+ },
+ "additional_texts|(optional)": {
+  "file": "additional_texts_optional.png",
+  "cx": 68.1482,
+  "cy": 20.7813,
+  "res": 3
+ },
+ "additional_texts|shadowtexts": {
+  "file": "additional_texts_shadowtexts.png",
+  "cx": 216.213,
+  "cy": 47.7439,
+  "res": 3
+ },
+ "additional_texts|show variables": {
+  "file": "additional_texts_show_variables.png",
+  "cx": 215.213,
+  "cy": 78.0175,
+  "res": 3
+ },
+ "Ball1_Shade|costume1": {
+  "file": "ball1_shade_costume1.png",
+  "cx": 11.5,
+  "cy": 11.5,
+  "res": 3
+ },
+ "Ball2_Shade|costume1": {
+  "file": "ball2_shade_costume1.png",
+  "cx": 11.5,
+  "cy": 11.5,
+  "res": 3
+ },
+ "Ball3_Shade|costume1": {
+  "file": "ball3_shade_costume1.png",
+  "cx": 11.5,
+  "cy": 11.5,
+  "res": 3
+ },
+ "small_helper|to run": {
+  "file": "small_helper_to_run.png",
+  "cx": 232.5762,
+  "cy": 173.3262,
+  "res": 3
+ },
+ "small_helper|to stop": {
+  "file": "small_helper_to_stop.png",
+  "cx": 232.5762,
+  "cy": 173.3262,
+  "res": 3
+ },
+ "small_helper|to run and restart": {
+  "file": "small_helper_to_run_and_restart.png",
+  "cx": 232.5762,
+  "cy": 173.3262,
+  "res": 3
+ },
+ "small_helper|to restart": {
+  "file": "small_helper_to_restart.png",
+  "cx": -76.7448,
+  "cy": -132.1149,
+  "res": 3
+ },
+ "settings|not_pressed": {
+  "file": "settings_not_pressed.png",
+  "cx": 13.5639,
+  "cy": 13.5639,
+  "res": 3
+ },
+ "settings|pressed": {
+  "file": "settings_pressed.png",
+  "cx": 13.5639,
+  "cy": 13.5639,
+  "res": 3
+ },
+ "Shadow manager|unclicked": {
+  "file": "shadow_manager_unclicked.png",
+  "cx": 10.0,
+  "cy": 10,
+  "res": 3
+ },
+ "Shadow manager|clicked": {
+  "file": "shadow_manager_clicked.png",
+  "cx": 11.1528,
+  "cy": 22.7943,
+  "res": 3
+ },
+ "+|costume1": {
+  "file": "plus_button.png",
+  "cx": 10,
+  "cy": 10,
+  "res": 3
+ },
+ "-|costume1": {
+  "file": "minus_button.png",
+  "cx": 10,
+  "cy": 10,
+  "res": 3
+ },
+ "skip button|not_pressed": {
+  "file": "skip_button_not_pressed.png",
+  "cx": 34.2917,
+  "cy": 15.3675,
+  "res": 3
+ },
+ "skip button|pressed": {
+  "file": "skip_button_pressed.png",
+  "cx": 34.2916,
+  "cy": 15.3675,
+  "res": 3
+ },
+ "reset settings|not_pressed": {
+  "file": "reset_settings_not_pressed.png",
+  "cx": 78.7857,
+  "cy": 12.8606,
+  "res": 3
+ },
+ "reset settings|pressed": {
+  "file": "reset_settings_pressed.png",
+  "cx": 78.7857,
+  "cy": 12.8606,
+  "res": 3
+ },
+ "Speed_showing_manager|unclicked": {
+  "file": "speed_showing_manager_unclicked.png",
+  "cx": 10.0,
+  "cy": 10,
+  "res": 3
+ },
+ "Speed_showing_manager|clicked": {
+  "file": "speed_showing_manager_clicked.png",
+  "cx": 11.1528,
+  "cy": 22.7943,
+  "res": 3
+ }
+}
